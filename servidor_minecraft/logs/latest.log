@@ -993,3 +993,100 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [01Aug2025 08:34:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedsay99 has made the advancement [Cover Me with Diamonds]
 [01Aug2025 08:35:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haloreba117 has made the advancement [Mutual Aid]
 [01Aug2025 08:36:44.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SylarSDFX has made the advancement [Sweet Dreams]
+[01Aug2025 08:37:37.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[01Aug2025 08:38:43.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haloreba117 has made the advancement [Isn't It Iron Pick]
+[01Aug2025 08:39:15.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haloreba117 has made the advancement [Crops of the Wild]
+[01Aug2025 08:40:25.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs was doomed to fall by The Rod
+[01Aug2025 08:40:25.395] [Server thread/INFO] [tombstone/]: The player TavoMs has successfully been saved
+[01Aug2025 08:40:55.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TavoMs lost connection: Disconnected
+[01Aug2025 08:40:55.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs left the game
+[01Aug2025 08:40:55.666] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Aug2025 08:41:09.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=64, z=-511} BlockPos{x=27, y=62, z=-510}
+[01Aug2025 08:41:09.988] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=64, z=-511} BlockPos{x=27, y=62, z=-510}
+[01Aug2025 08:42:08.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedsay99 has made the advancement [Isn't It Iron Pick]
+[01Aug2025 08:42:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haloreba117 has made the advancement [Mine? Mine? Mine?]
+[01Aug2025 08:42:55.395] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e3ddc57[id=<null>,name=TavoMs,properties={},legacy=false] (/127.183.56.22:44505) lost connection: Disconnected
+[01Aug2025 08:43:55.342] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e62ba1e[id=<null>,name=TavoMs,properties={},legacy=false] (/127.183.56.22:42689) lost connection: Disconnected
+[01Aug2025 08:44:50.790] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TavoMs is 655fce47-d7bc-4482-b6a9-0c1517d08ef9
+[01Aug2025 08:45:01.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TavoMs[/127.183.56.22:53943] logged in with entity id 42003 at (-9.49644358153715, 78.0, -45.77893257693721)
+[01Aug2025 08:45:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs joined the game
+[01Aug2025 08:45:01.863] [Server thread/INFO] [Jade/]: Syncing config to TavoMs (655fce47-d7bc-4482-b6a9-0c1517d08ef9)
+[01Aug2025 08:45:19.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <SylarSDFX> 567 92 204
+[01Aug2025 08:45:31.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TavoMs lost connection: Timed out
+[01Aug2025 08:45:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs left the game
+[01Aug2025 08:48:23.096] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TavoMs is 655fce47-d7bc-4482-b6a9-0c1517d08ef9
+[01Aug2025 08:48:36.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TavoMs[/127.183.56.22:57413] logged in with entity id 44015 at (-9.49644358153715, 78.0, -45.77893257693721)
+[01Aug2025 08:48:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs joined the game
+[01Aug2025 08:48:36.504] [Server thread/INFO] [Jade/]: Syncing config to TavoMs (655fce47-d7bc-4482-b6a9-0c1517d08ef9)
+[01Aug2025 08:49:06.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TavoMs lost connection: Timed out
+[01Aug2025 08:49:06.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs left the game
+[01Aug2025 08:51:03.360] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TavoMs is 655fce47-d7bc-4482-b6a9-0c1517d08ef9
+[01Aug2025 08:51:14.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: halgarcia343 was slain by The Moonflower
+[01Aug2025 08:51:14.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TavoMs[/127.183.56.22:35437] logged in with entity id 45467 at (-9.49644358153715, 78.0, -45.77893257693721)
+[01Aug2025 08:51:14.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs joined the game
+[01Aug2025 08:51:14.248] [Server thread/INFO] [Jade/]: Syncing config to TavoMs (655fce47-d7bc-4482-b6a9-0c1517d08ef9)
+[01Aug2025 08:51:14.261] [Server thread/INFO] [tombstone/]: The player halgarcia343 has successfully been saved
+[01Aug2025 08:51:44.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TavoMs lost connection: Timed out
+[01Aug2025 08:51:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs left the game
+[01Aug2025 08:51:56.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haloreba117 has made the advancement [A Seedy Place]
+[01Aug2025 08:53:47.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: halgarcia343 has made the advancement [Monster Hunter]
+[01Aug2025 08:53:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: halgarcia343 has made the advancement [A Strange Grave Dust]
+[01Aug2025 08:54:40.899] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player TavoMs is 655fce47-d7bc-4482-b6a9-0c1517d08ef9
+[01Aug2025 08:54:52.640] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TavoMs[/127.183.56.22:45083] logged in with entity id 47504 at (-9.49644358153715, 78.0, -45.77893257693721)
+[01Aug2025 08:54:52.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs joined the game
+[01Aug2025 08:54:52.697] [Server thread/INFO] [Jade/]: Syncing config to TavoMs (655fce47-d7bc-4482-b6a9-0c1517d08ef9)
+[01Aug2025 08:55:17.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs was slain by Decaying Zombie
+[01Aug2025 08:55:17.394] [Server thread/INFO] [tombstone/]: The player TavoMs has successfully been saved
+[01Aug2025 08:55:22.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TavoMs lost connection: Timed out
+[01Aug2025 08:55:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TavoMs left the game
+[01Aug2025 08:55:44.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haloreba117 has made the advancement [Diamonds!]
+[01Aug2025 08:56:57.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: halgarcia343 was slain by Baby Skeleton
+[01Aug2025 08:56:57.927] [Server thread/INFO] [tombstone/]: The player halgarcia343 has successfully been saved
+[01Aug2025 08:57:32.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: halgarcia343 liquified to Fanta juice
+[01Aug2025 08:57:32.832] [Server thread/INFO] [tombstone/]: The player halgarcia343 has successfully been saved
+[01Aug2025 08:57:39.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haloreba117 lost connection: Disconnected
+[01Aug2025 08:57:39.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haloreba117 left the game
+[01Aug2025 08:57:50.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SylarSDFX lost connection: Disconnected
+[01Aug2025 08:57:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SylarSDFX left the game
+[01Aug2025 08:57:53.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: halgarcia343 lost connection: Disconnected
+[01Aug2025 08:57:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: halgarcia343 left the game
+[01Aug2025 08:59:25.808] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dedsay99 lost connection: Disconnected
+[01Aug2025 08:59:25.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dedsay99 left the game
+[01Aug2025 08:59:29.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Aug2025 08:59:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Aug2025 08:59:29.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Aug2025 08:59:29.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Aug2025 08:59:30.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[01Aug2025 08:59:30.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[01Aug2025 08:59:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Aug2025 08:59:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[01Aug2025 08:59:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[01Aug2025 08:59:30.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[01Aug2025 08:59:30.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Aug2025 08:59:30.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[01Aug2025 08:59:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[01Aug2025 08:59:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[01Aug2025 08:59:30.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[01Aug2025 08:59:30.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[01Aug2025 08:59:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01Aug2025 08:59:30.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[01Aug2025 08:59:30.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[01Aug2025 08:59:30.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[01Aug2025 08:59:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Aug2025 08:59:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[01Aug2025 08:59:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[01Aug2025 08:59:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Aug2025 08:59:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[01Aug2025 08:59:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[01Aug2025 08:59:30.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

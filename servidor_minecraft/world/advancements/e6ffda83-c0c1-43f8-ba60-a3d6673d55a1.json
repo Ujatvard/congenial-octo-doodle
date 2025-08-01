@@ -181,6 +181,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-01 08:30:53 +0000",
+      "neapolitan:dried_banana": "2025-08-01 08:37:42 +0000",
       "rotten_flesh": "2025-08-01 07:22:08 +0000",
       "melon_slice": "2025-08-01 07:37:35 +0000"
     },
@@ -241,6 +242,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-08-01 08:59:09 +0000",
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 08:59:02 +0000"
+    },
+    "done": false
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-08-01 08:28:40 +0000"
@@ -266,6 +340,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-01 08:42:08 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-08-01 08:15:27 +0000"
@@ -281,6 +361,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-01 08:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-01 08:34:29 +0000"
     },
     "done": true
   },
